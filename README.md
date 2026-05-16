@@ -20,8 +20,6 @@ I am a passionate developer focused on building clean, functional, and user-cent
 
 * **Corporate Management System:** An enterprise web application developed using .NET, focusing on secure authentication and complex CRUD operations.
 * **Personal Portfolio:** A responsive, interactive showcase of my work and technical journey.
-* **Chain-Trace:** A graph-based financial crime detection engine built with React and Tailwind.
-
 ---
 
 ### 📊 GitHub Activity
