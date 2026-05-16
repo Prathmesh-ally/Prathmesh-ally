@@ -51,7 +51,7 @@
 ### 🤝 Let's Build Something Together
 <p align="left">
 <a href="https://www.linkedin.com/in/prathmesh-sanap-92325b322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathmesh Sanap" height="30" width="40" /></a>
-<a href="mailto: prathmesh200515@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="30" width="40" /></a>
+<a href="mailto: prathmesh200515@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prathmesh200515@gmail.com" height="30" width="40" /></a>
 </p>
 
 <p align="center"> 
