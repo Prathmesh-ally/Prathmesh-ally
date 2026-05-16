@@ -1,49 +1,59 @@
-<h1 align="center">Hi there, I'm Prathmesh Sanap! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="30px"></h1>
-
-<h3 align="center">Frontend Developer | MERN Stack | .NET Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F260&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Prathmesh+Sanap!;Full-Stack+MERN+Developer;.NET+Backend+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://prathmesh-ally.github.io/My-Portfolio/"><b>🌐 Check out my Interactive Portfolio</b></a>
+  <img src="https://raw.githubusercontent.com/Prathmesh-ally/Prathmesh-ally/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Quick Overlook
 
-- 🎓 3rd-year **Computer Engineering** student at Savitribai Phule Pune University.
-- 💼 Recently completed a **.NET Development Internship** at Zeel Network Solution, where I built a robust Corporate Management System.
-- 🚀 Crafting intuitive user interfaces as a **Frontend Developer** (HTML, CSS, JS, Bootstrap) and building full-stack apps with **MERN** and **Java**.
-- 🤖 Exploring AI-driven development workflows and modern build tools.
-- 🎮 When I'm not coding or debugging, you can find me monitoring frame rates in **Brawlhalla** or hitting my daily 4km fitness goals!
+- 💻 **Current Focus:** Advanced MERN Stack & .NET Integration.
+- 🎓 **Education:** 3rd Year Computer Engineering @ SPPU.
+- 🛠️ **Internship:** Built an Enterprise Corporate Management System at Zeel Network Solution.
+- ⚡ **Fun Fact:** I track my 4km walk like I track my API response times—precision is key!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack Ecosystem
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+| Category | Tech / Tools |
+| :--- | :--- |
+| **Frontend** | `React.js` `JavaScript` `Bootstrap 5` `Framer Motion` `Tailwind` |
+| **Backend** | `Node.js` `Express.js` `ASP.NET Web Forms` `C#` |
+| **Database** | `MongoDB` `MySQL` `MS SQL Server` |
+| **Tools** | `Git` `VS Code` `Postman` `NVIDIA FrameView` |
+
+---
+
+### 📊 The Coding Lab (Live Stats)
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-ally&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-ally&layout=compact&theme=neon&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh-ally&theme=neon&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
+### 📂 Top Projects Showcased
+- 🏛️ **Corporate Management System:** Enterprise-grade .NET application with secure Auth and CRUD.
+- 🌐 **Neon Portfolio:** The interactive 3D site you just saw!
+- 🔍 **Chain-Trace:** Graph-based financial crime detection engine.
 
 ---
 
-### 📫 Connect With Me
-
+### 🤝 Let's Build Something Together
 <p align="left">
-  <a href="mailto:prathmesh200515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/prathmesh-sanap-92325b322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/prathmesh-sanap-92325b322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathmesh Sanap" height="30" width="40" /></a>
+<a href="mailto: prathmesh200515@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="30" width="40" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Prathmesh-ally&label=Profile%20Views&color=00f260&style=flat" alt="Views" /> 
 </p>
