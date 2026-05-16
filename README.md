@@ -22,15 +22,6 @@ I am a passionate developer focused on building clean, functional, and user-cent
 * **Personal Portfolio:** A responsive, interactive showcase of my work and technical journey.
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-ally&show_icons=true&theme=vivid&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-ally&layout=compact&theme=vivid&hide_border=true" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 * **Portfolio:** [prathmesh-ally.github.io/My-Portfolio/](https://prathmesh-ally.github.io/My-Portfolio/)
