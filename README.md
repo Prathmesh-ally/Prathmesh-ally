@@ -1,61 +1,43 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F260&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Prathmesh+Sanap!;Full-Stack+MERN+Developer;.NET+Backend+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-</h1>
+# Hi, I'm Prathmesh Sanap 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prathmesh-ally/Prathmesh-ally/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+### Computer Engineering Student | Frontend & MERN Stack Developer
+
+I am a passionate developer focused on building clean, functional, and user-centric web applications. With a strong foundation in **Frontend technologies** and experience in the **MERN stack** and **.NET**, I enjoy turning complex problems into simple, beautiful code.
 
 ---
 
-### 🚀 Quick Overlook
+### 💻 Technical Skills
 
-- 💻 **Current Focus:** Advanced MERN Stack & .NET Integration.
-- 🎓 **Education:** 3rd Year Computer Engineering @ SPPU.
-- 🛠️ **Internship:** Built an Enterprise Corporate Management System at Zeel Network Solution.
-- ⚡ **Fun Fact:** I track my 4km walk like I track my API response times—precision is key!
-
----
-
-### 🛠️ Tech Stack Ecosystem
-
-| Category | Tech / Tools |
-| :--- | :--- |
-| **Frontend** | `React.js` `JavaScript` `Bootstrap 5` `Framer Motion` `Tailwind` |
-| **Backend** | `Node.js` `Express.js` `ASP.NET Web Forms` `C#` |
-| **Database** | `MongoDB` `MySQL` `MS SQL Server` |
-| **Tools** | `Git` `VS Code` `Postman` `NVIDIA FrameView` |
+* **Languages:** JavaScript (ES6+), Java, C#, HTML5, CSS3
+* **Frontend:** React.js, Bootstrap 5, Tailwind CSS
+* **Backend:** Node.js, Express.js, ASP.NET Web Forms
+* **Databases:** MongoDB, MS SQL Server, MySQL
+* **Tools:** Git & GitHub, VS Code, Postman
 
 ---
 
-### 📊 The Coding Lab (Live Stats)
+### 🚀 Key Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-ally&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-ally&layout=compact&theme=neon&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh-ally&theme=neon&hide_border=true" alt="GitHub Streak" />
-</p>
+* **Corporate Management System:** An enterprise web application developed using .NET, focusing on secure authentication and complex CRUD operations.
+* **Personal Portfolio:** A responsive, interactive showcase of my work and technical journey.
+* **Chain-Trace:** A graph-based financial crime detection engine built with React and Tailwind.
 
 ---
 
-### 📂 Top Projects Showcased
-
-- 🏛️ **Corporate Management System:** Enterprise-grade .NET application with secure Auth and CRUD.
-- 🌐 **Neon Portfolio:** The interactive 3D site you just saw!
-- 🔍 **Chain-Trace:** Graph-based financial crime detection engine.
-
----
-
-### 🤝 Let's Build Something Together
+### 📊 GitHub Activity
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prathmesh-sanap-92325b322/" target="blank"><img align="center" alt="Prathmesh Sanap" height="30" width="40" /></a>
-<a href="mailto: prathmesh200515@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-prathmesh200515@gmail.com" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-ally&show_icons=true&theme=vivid&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-ally&layout=compact&theme=vivid&hide_border=true" height="150" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Prathmesh-ally&label=Profile%20Views&color=00f260&style=flat" alt="Views" /> 
-</p>
+---
+
+### 📫 Connect with me
+
+* **Portfolio:** [prathmesh-ally.github.io/My-Portfolio/](https://prathmesh-ally.github.io/My-Portfolio/)
+* **LinkedIn:** [linkedin.com/in/your-id](https://www.linkedin.com/in/prathmesh-sanap-92325b322/)
+* **Email:** prathmesh200515@gmail.com
+
+---
+<p align="center">"Code is like humor. When you have to explain it, it’s bad."</p>
