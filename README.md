@@ -40,9 +40,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-ally&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Prathmesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-ally&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-ally&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Prathmesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-ally&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
